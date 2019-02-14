@@ -1,0 +1,5 @@
+<svg version="1.1"
+baseProfile="full" width="20" height="5"  xmlns="http://www.w3.org/2000/svg">
+<polygon points=" 19,0  7,0  20,5"
+ style="fill:red;stroke:purple;stroke-width:0.2" />
+</svg>
